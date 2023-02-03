@@ -25,3 +25,11 @@ Additionally, Roman numerals use a subtractive notation, where a smaller numeral
 Subtractive notation is used to prevent to have 4 times the same letter: "IV" instead of "IIII".
 
 It's important to note that Roman numerals do not have a symbol for the number 0, and certain combinations of letters are not allowed, such as "IIII" or "VV"
+
+## Examples
+
+| 1 = I | 2 = II | 3 = III | 4 = IV | 5 = V |
+| 6 = VI | 7 = VII | 8 = VIII | 9 = IX | 10 = X | 
+| 11 = XI | 12 = XII | 13 = XIII | 14 = XIV | 15 = XV |
+| 16 = XVI | 17 = XVII | 18 = XVIII | 19 = XIX | 20 = XX |
+| 50 = L | 100 = C | 500 = D | 1000 = M | 3428 = MMMCDXXVIII |
